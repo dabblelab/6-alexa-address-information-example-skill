@@ -1,0 +1,39 @@
+{
+    "interactionModel": {
+      "languageModel": {
+        "invocationName": "location starter",
+        "types": [
+  
+        ],
+        "intents": [
+          {
+            "name": "AMAZON.CancelIntent",
+            "samples": [
+  
+            ]
+          },
+          {
+            "name": "AMAZON.HelpIntent",
+            "samples": [
+  
+            ]
+          },
+          {
+            "name": "AMAZON.StopIntent",
+            "samples": [
+  
+            ]
+          },
+          {
+            "name": "DeviceLocationIntent",
+            "samples": [
+              "address",
+              "my address",
+              "what is my location"
+            ]
+          }
+        ]
+      }
+    }
+  }
+  
