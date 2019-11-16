@@ -1,11 +1,14 @@
 {
     "interactionModel": {
       "languageModel": {
-        "invocationName": "location starter",
+        "invocationName": "template six",
         "types": [
   
         ],
         "intents": [
+          {
+            "name": "AMAZON.NavigateHomeIntent"
+          },
           {
             "name": "AMAZON.CancelIntent",
             "samples": [

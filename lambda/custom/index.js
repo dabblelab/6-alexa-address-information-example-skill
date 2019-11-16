@@ -16,8 +16,8 @@ const LaunchRequestHandler = {
     return handlerInput.requestEnvelope.request.type === 'LaunchRequest';
   },
   handle(handlerInput) {
-    const speechText = `Hello, welcome to ${APP_NAME}. You can ask about device address by saying what is my location`;
-    const repromptText = 'What would you like to know?';
+    const speechText = `Hello, you can say; what is my location, to hear the address associated with this device.`;
+    const repromptText = 'Say: what is my location, to hear the address associated with this device.';
 
     return handlerInput.responseBuilder
       .speak(speechText)
