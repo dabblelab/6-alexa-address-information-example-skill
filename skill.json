@@ -5,15 +5,15 @@
         "en-US": {
           "summary": "Sample Short Description",
           "examplePhrases": [
-            "Alexa open location starter",
-            "Alexa ask location starter about my adrees"
+            "Alexa open template six",
+            "Alexa ask template six about my address"
           ],
           "keywords": [
             "keyword1",
             "keyword2",
             "keyword3"
           ],
-          "name": "device-location-starter-alexa",
+          "name": "Template 6 - Address Information Example",
           "description": "Sample Full Description",
           "smallIconUri": "https://s3.amazonaws.com/cdn.dabblelab.com/img/skill-template-default-sm.png",
           "largeIconUri": "https://s3.amazonaws.com/cdn.dabblelab.com/img/skill-template-default-lg.png"

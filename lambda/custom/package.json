@@ -1,5 +1,5 @@
 {
-  "name": "dabblelab-basic-starter",
+  "name": "alexa-address-information-example-skill",
   "version": "1.0.0",
   "description": "Basic Alexa Skill Template",
   "main": "index.js",
